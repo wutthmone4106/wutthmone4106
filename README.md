@@ -19,6 +19,7 @@
 ```js
 const wuttHmoneChaw = {
   pronouns: "she / her 🎀",
+  age: "20 ✨",
   role: "Web Developer 💻",
   location: "Myanmar 🇲🇲",
 

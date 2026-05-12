@@ -42,12 +42,6 @@ const wuttHmoneChaw = {
 };
 ```
 
-<div align="center">
-
-### 🎀 ───────────── ✦ ───────────── 🎀
-
-</div>
-
 <h1 align="center">⚡ Tech Stack</h1>
 
 <div align="center">
@@ -56,13 +50,7 @@ const wuttHmoneChaw = {
 
 </div>
 
-<div align="center">
-
-### 🌙 ───────────── ✦ ───────────── 🌙
-
-</div>
-
-<h1 align="center">🌸 Currently</h1>
+<h1 align="center">🌸 Current Progress </h1>
 
 ```txt
 💭 learning new things every day
@@ -71,24 +59,6 @@ const wuttHmoneChaw = {
 🚀 building full-stack projects
 ✨ romanticizing programming life
 ```
-
-<div align="center">
-
-### ☁️ ───────────── ✦ ───────────── ☁️
-
-</div>
-
-<h1 align="center"> 📊 Github Stats</h1>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=wutthmone4106&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
-</div>
-
-<div align="center">
-
-### 🎮 ───────────── ✦ ───────────── 🎮
-
-</div>
 
 <h1 align="center"> 👾 Coding Arcade </h1>
 
@@ -102,13 +72,6 @@ const wuttHmoneChaw = {
 
 🎮 +10 XP for every successful commit  
 💀 -100 HP when CSS breaks everything
-
-</div>
-
-
-<div align="center">
-
-### 🌷 ───────────── ✦ ───────────── 🌷
 
 </div>
 
@@ -127,13 +90,6 @@ Git:
 CSS:
 "works perfectly until mobile view 💀"
 ```
-
-<div align="center">
-
-### 🌸 ───────────── ✦ ───────────── 🌸
-
-</div>
-
 
 <h1 align="center">🌐 Connect with Me</h1>
 

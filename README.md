@@ -20,21 +20,49 @@
 const wuttHmoneChaw = {
   pronouns: "she / her 🎀",
   role: "Web Developer 💻",
-  education: "IT Student",
   location: "Myanmar 🇲🇲",
 
-  techSkill: {
-    frontend: ["HTML", "CSS", "JavaScript", "React", "Vite", "Tailwind CSS", "Bootstrap", "JQuery"],
-    backend: ["PHP", "Python", "DJANGO", "Node JS"],
-    database: ["MongoDB", "MySQL", "SQLite", "Postgresql"],
-    tools: ["VS code", "Git", "Github", "Postman", "Figma", "Photoshop"],
-  },
+  education: [
+    {
+      diploma: "OTHM Level 4 Diploma in Information Technology",
+      focus: [
+        "Managing Digital Information",
+        "Web & Mobile Application",
+        "Computer & Network Technology",
+        "Cyber Security",
+        "Principle of Computer Programming",
+        "System Analysis & Design",
+      ],
+    },
 
-  hobbies: [
+    {
+      diploma: "OTHM Level 3 Foundation Diploma in Information Technology",
+      focus: [
+        "Computer System",
+        "Cyber Security",
+        "Social Media for Business",
+        "Mobile Communication",
+        "Coding and Website Development",
+        "Networking",
+      ],
+    },
+
+    {
+      institution: "PAGE Myanmar Web Engineering School",
+      certifications: [
+        "MERN Full Stack Development",
+        "Python Django Professional",
+        "PHP Web Development",
+        "Responsive Web Design"
+      ],
+    },
+  ],
+
+  devHobbies: [
     "building aesthetic UIs 🎨",
-    "late night coding 🌙",
+    "learning new codes 💻",
     "creative problem solving ✨",
-    "fighting bugs and winning sometimes 🐛💻"
+    "fighting bugs and winning sometimes 🐛"
   ],
 
   lifePhilosophy:

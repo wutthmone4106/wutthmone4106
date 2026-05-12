@@ -1,84 +1,171 @@
-<h2 align="center">˗ˏˋ ♡ ˎˊ˗  Wutt Hmone Chaw  ˗ˏˋ ♡ ˎˊ˗<br>⋆ | Web Developer | IT Student  | ⋆</h2>
+<div align="center">
 
-###
+# ✧･ﾟ: * Hey it's me, Wutt Hmone Chaw *:･ﾟ✧
 
-<br clear="both">
+### ✧ Turning “it would be cool if…” into actual projects ✧
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Building+cool+things+with+code+💻;Bug+creator+and+bug+fixer+🐞.;Coffee+%2B+music+%2B+late+night+coding+☕;Turning+ideas+into+reality+🚀" />
+
+<br>
+
+<img width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+### 🌸 ───────────── ✦ ───────────── 🌸
+
+</div>
+
+<h1 align="center">💌 About Me</h1>
+
+```js
+const wuttHmoneChaw = {
+  pronouns: "she / her 🎀",
+  role: "Web Developer 💻",
+  education: "IT Student",
+  location: "Myanmar 🇲🇲",
+
+  techSkill: {
+    frontend: ["HTML", "CSS", "JavaScript", "React", "Vite", "Tailwind CSS", "Bootstrap", "JQuery"],
+    backend: ["PHP", "Python", "DJANGO", "Node JS"],
+    database: ["MongoDB", "MySQL", "SQLite", "Postgresql"],
+    tools: ["VS code", "Git", "Github", "Postman", "Figma", "Photoshop"],
+  },
+
+  hobbies: [
+    "building aesthetic UIs 🎨",
+    "late night coding 🌙",
+    "creative problem solving ✨",
+    "fighting bugs and winning sometimes 🐛💻"
+  ],
+
+  lifePhilosophy:
+    "Building a version of myself that my younger self would look up to and my future self will be proud of."
+};
+```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wutthmone4106/wutthmone4106/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=wutthmone4106&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
+### 🎀 ───────────── ✦ ───────────── 🎀
+
 </div>
 
-###
+<h1 align="center">⚡ Tech Stack</h1>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo"  />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,php,python,django,react,vite,nodejs,mongodb,mysql,postgresql,sqlite,postman,git,github,vscode,jquery,photoshop,figma&theme=dark" />
+
 </div>
 
-###
+<div align="center">
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGpiZTRuNGkwZ3Jxbm1zcnl4bWkwbTdrNDd5MzFncjN6dXlkaDY0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/okFG5aJWqRGMYXoKTD/giphy.gif"  />
+### 🌙 ───────────── ✦ ───────────── 🌙
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
-###
+<h1 align="center">🌸 Currently</h1>
 
-<br clear="both">
+```txt
+💭 learning new things every day
+☕ surviving on caffeine
+🎧 coding with lo-fi playlists
+🚀 building full-stack projects
+✨ romanticizing programming life
+```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wutthmone4106/wutthmone4106/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wutthmone4106/wutthmone4106/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wutthmone4106/wutthmone4106/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
 
-###
+### ☁️ ───────────── ✦ ───────────── ☁️
+
+</div>
+
+<h1 align="center"> 📊 Github Stats</h1>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=wutthmone4106&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+</div>
+
+<div align="center">
+
+### 🎮 ───────────── ✦ ───────────── 🎮
+
+</div>
+
+<h1 align="center"> 👾 Coding Arcade </h1>
+
+<div align="center">
+
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" width="700"/>
+
+</div>
+
+<div align="center">
+
+🎮 +10 XP for every successful commit  
+💀 -100 HP when CSS breaks everything
+
+</div>
+
+
+<div align="center">
+
+### 🌷 ───────────── ✦ ───────────── 🌷
+
+</div>
+
+<h1 align="center"> 💻 Random Dev Thoughts </h1>
+
+```txt
+Frontend:
+"why is this div moving 😭"
+
+Backend:
+"why is everything undefined 😭"
+
+Git:
+"I SWEAR I PUSHED THAT"
+
+CSS:
+"works perfectly until mobile view 💀"
+```
+
+<div align="center">
+
+### 🌸 ───────────── ✦ ───────────── 🌸
+
+</div>
+
+
+<h1 align="center">🌐 Connect with Me</h1>
+
+<div align="center">
+
+<a href="mailto:wutthmone4106@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+<a href="@itsmeWHC">
+<img src="https://skillicons.dev/icons?i=telegram"/>
+</a>
+
+<a href="Y#">
+<img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### 🎀 ───────────── ✦ ───────────── 🎀
+
+</div>
+
+<div align="center">
+
+### ✧ “design. code. debug. repeat.” ✧
+
+
+</div>

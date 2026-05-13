@@ -89,36 +89,15 @@ const wuttHmoneChaw = {
 ✨ romanticizing programming life
 ```
 
-<h1 align="center"> 👾 Coding Arcade </h1>
+<h1 align="center"> 👾 Arcade </h1>
 
-<div align="center">
+<br clear="both">
 
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" width="700"/>
-
-</div>
-
-<div align="center">
-
-🎮 +10 XP for every successful commit  
-💀 -100 HP when CSS breaks everything
-
-</div>
-
-<h1 align="center"> 💻 Random Dev Thoughts </h1>
-
-```txt
-Frontend:
-"why is this div moving 😭"
-
-Backend:
-"why is everything undefined 😭"
-
-Git:
-"I SWEAR I PUSHED THAT"
-
-CSS:
-"works perfectly until mobile view 💀"
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wutthmone4106/wutthmone4106/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wutthmone4106/wutthmone4106/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wutthmone4106/wutthmone4106/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 <h1 align="center">🌐 Connect with Me</h1>
 

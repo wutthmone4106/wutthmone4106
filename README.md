@@ -99,28 +99,6 @@ const wuttHmoneChaw = {
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wutthmone4106/wutthmone4106/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-<h1 align="center">🌐 Connect with Me</h1>
-
-<div align="center">
-
-<a href="mailto:wutthmone4106@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=facebook"/>
-</a>
-
-<a href="@itsmeWHC">
-<img src="https://skillicons.dev/icons?i=telegram"/>
-</a>
-
-<a href="Y#">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-
-</div>
-
 <div align="center">
 
 ### 🎀 ───────────── ✦ ───────────── 🎀
